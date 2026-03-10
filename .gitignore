@@ -4,3 +4,14 @@ world_the_end/
 *.jar
 logs/
 cache/
+plugins/spark/tmp/*
+*.env
+temp/
+world*/
+logs/
+cache/
+*.jar
+plugins/spark/tmp/*
+plugins/dynmap/web/tiles/*
+.papermc-manifest.json
+backups/
