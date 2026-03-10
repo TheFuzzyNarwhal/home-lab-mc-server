@@ -15,3 +15,11 @@ plugins/spark/tmp/*
 plugins/dynmap/web/tiles/*
 .papermc-manifest.json
 backups/
+*.json
+*.txt
+*.jfr
+*.tiny
+crash-reports/
+plugins/.paper-remapped/
+plugins/spark/
+usercache.json
